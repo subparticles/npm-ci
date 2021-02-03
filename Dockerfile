@@ -1,4 +1,4 @@
-FROM node:12.18.3
+FROM node:14.15.4
 
 ENV CHROME_BIN=chromium
 
