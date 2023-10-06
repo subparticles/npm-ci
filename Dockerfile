@@ -1,4 +1,4 @@
-ARG NODE_VERSION=18.14.2
+ARG NODE_VERSION=18.7.1-bullseye-slim
 
 FROM node:${NODE_VERSION}
 
