@@ -1,4 +1,4 @@
-ARG NODE_VERSION=20.12.1-bookworm-slim
+ARG NODE_VERSION=22.10.0-bookworm-slim
 
 FROM node:${NODE_VERSION}
 
